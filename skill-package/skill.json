@@ -14,7 +14,7 @@
             "streaming",
             "youtube"
           ],
-          "name": "Mytube",
+          "name": "AlexaYoutube",
           "description": "Sample Full Description",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
@@ -33,7 +33,7 @@
           }
         ],
         "endpoint": {
-          "uri": "arn:aws:lambda:eu-west-1:924338216746:function:ask-mytube-default-default-1589635715195"
+          "uri": "arn:aws:lambda:us-west-1:119815390800:function:ask-alexayoutube-default-default-1611439437706"
         }
       }
     },

@@ -2,27 +2,27 @@
   "askcliStatesVersion": "2020-03-31",
   "profiles": {
     "default": {
+      "skillId": "amzn1.ask.skill.a1afef7a-760d-4029-bd46-22e1aafa39ce",
       "skillInfrastructure": {
         "@ask-cli/lambda-deployer": {
           "deployState": {
             "default": {
-              "iamRole": "arn:aws:iam::924338216746:role/ask-lambda-Mytube-1589635705685",
               "lambda": {
-                "arn": "arn:aws:lambda:eu-west-1:924338216746:function:ask-mytube-default-default-1589635715195",
-                "lastModified": "2021-01-04T16:13:34.371+0000",
-                "revisionId": "c6c642f8-e363-45a1-a444-dbe86ed5f924"
-              }
+                "arn": "arn:aws:lambda:us-west-1:119815390800:function:ask-alexayoutube-default-default-1611439437706",
+                "lastModified": "2021-01-23T22:11:29.102+0000",
+                "revisionId": "daf9c7c3-78b3-4e60-aa36-ca333b77b148"
+              },
+              "iamRole": "arn:aws:iam::119815390800:role/ask-lambda-AlexaYoutube-1611439426775"
             }
           }
         }
       },
-      "skillId": "amzn1.ask.skill.53f7627e-811e-410e-a528-ab889ddb65fa",
       "skillMetadata": {
-        "lastDeployHash": "j6hawXP/S2QiQVfechMchTLXM6M="
+        "lastDeployHash": "nLlOSZ/vcKWztVUHs8tg4DXnTDg="
       },
       "code": {
         "default": {
-          "lastDeployHash": "aJQatntTuZ3z/JNkKhkMt/pg5d0="
+          "lastDeployHash": "3kME9KaWU8REKAqSApHunBCUhQs="
         }
       }
     }

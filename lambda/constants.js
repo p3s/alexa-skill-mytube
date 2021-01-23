@@ -1,7 +1,7 @@
 /* CONSTANTS */
 
 exports.config = {
-  appId: "amzn1.ask.skill.53f7627e-811e-410e-a528-ab889ddb65fa",
+  appId: "amzn1.ask.skill.a1afef7a-760d-4029-bd46-22e1aafa39ce",
   dynamoDBTableName: "my-tube",
   audioServer: "https://app.connectiongoal.com",
 };
